@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mohd-suhail-masroor
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development and data analytics
+- 🌱 I’m currently learning Tableau
+
 
 <!---
 mohd-suhail-masroor/mohd-suhail-masroor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
